@@ -1,1 +1,1 @@
-# Hangman Python Srishruthik Alle
+# Hangman using Object Oriented Programming in Python by Srishruthik Alle
